@@ -3,8 +3,11 @@
 ## Data
 
 Images of Simpsons
+
 train 21000 images
+
 test 990 images
+
 [dataset_on_kaggle](https://www.kaggle.com/competitions/journey-springfield/data?select=train)
 
 ## Tasks
