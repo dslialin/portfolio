@@ -1,7 +1,7 @@
 # Portfolio
 |project name|task|libraries|
 |-|--------|---|
-|1. Telecom churn|predicting customer churn in a telecommunications company|pandas, numpy, matplotlib, catboost, sklearn|
+|1. [Telecom churn](https://github.com/Aalfaa/portfolio/blob/main/Project_1_Telecom_churn/Project_1_Telecom_churn.ipynb)|predicting customer churn in a telecommunications company|pandas, numpy, matplotlib, catboost, sklearn|
 |2. Convolutional Neural Networks|classification of handwritten digits images using a fully connected network and convolutional network|numpy, matplotlib, seaborn, sklearn, pytorch|
 |3. Simpsons images classification|classification of Simpsons characters images|pandas, numpy, matplotlib, seaborn, math, random, sklearn, pytorch, torchvision|
 |4. Semantic Segmentation|solving the problem of medical image segmentation (melanova and venus)|numpy, matplotlib, skimage, pytorch, torchvision|
