@@ -1,4 +1,7 @@
 # Portfolio
+
+[My diplomas and certificates](https://github.com/Aalfaa/portfolio/tree/main/Diplomas_and_certificates).
+
 |project name|task|libraries|
 |-|--------|---|
 |1. [Telecom churn](https://github.com/Aalfaa/portfolio/blob/main/Project_1_Telecom_churn/Project_1_Telecom_churn.ipynb)|predicting customer churn in a telecommunications company|pandas, numpy, matplotlib, catboost, sklearn|
