@@ -2,13 +2,12 @@
 
 ## Data
 
-Table data train.csv and test.csv
-
-[dataset_on_kaggle](https://www.kaggle.com/competitions/advanced-dls-spring-2021/data)
+4 tables: contract.csv, personal.csv, internet.csv and phone.csv
+These datasets belong to Yandex.Practicum and are protected by copyright.
 
 ## Tasks
 
-The objective of this task is to develop a model that can predict which customers in a company are likely to remain loyal and stay with the company, and which customers are more likely to churn and switch to competitors.
+Predicting customer churn for an operator offering landline and internet services, including security, support, and streaming, based on payment preferences and service options.
 
 ## Used libraries
   
