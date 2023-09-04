@@ -1,9 +1,11 @@
-# Project 8. Yandex final project, churn
+# Project 8. Telecom churn project new
 
 ## Data
 
 4 tables: contract.csv, personal.csv, internet.csv and phone.csv
-These datasets belong to Yandex.Practicum and are protected by copyright.
+This dataset combined:
+[dataset_on_kaggle](https://www.kaggle.com/competitions/advanced-dls-spring-2021/data)
+
 
 ## Tasks
 
