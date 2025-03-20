@@ -1,6 +1,4 @@
-# Portfolio
-
-[My diplomas and certificates are here](https://github.com/Aalfaa/portfolio/tree/main/Diplomas_and_certificates).
+# Old portfolio (2022)
 
 Projects.
 |project name|task|libraries|
